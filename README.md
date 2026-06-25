@@ -1,6 +1,3 @@
-## LLM 에이전트의 결정론적 제어와 시스템 아키텍처(Deterministic Control and System Architecture of LLM Agents) ##
-
-
 # Agent Deterministic Control and System Architecture
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
