@@ -1,4 +1,5 @@
-# LLM 에이전트의 결정론적 제어와 시스템 아키텍처
+## LLM 에이전트의 결정론적 제어와 시스템 아키텍처(Deterministic Control and System Architecture of LLM Agents
+) ##
 
 ```
  랭체인 공식 문서 예제를 복사해서 붙여넣거나 타임라인에 돌아다니는 간단한 챗봇 코딩만 반복해서는 결코 이 구조를 꿰뚫어 볼 수 없습니다.
