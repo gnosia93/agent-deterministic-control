@@ -10,7 +10,16 @@ This repository is dedicated to exploring how to build **production-ready, deter
 * **Infinite Loop Mitigation:** Implementing strict fail-safes and maximum loop thresholds.
 * **Granular Tracing & Debugging:** Moving away from line-by-line debugging to event-driven tracing (using LangSmith/Langfuse).
 
----
+
+## 🛠️ Repository Structure (Planned)
+
+* `01-raw-api-loop/`: Implementing the ReAct loop from scratch using pure OpenAI/Anthropic APIs without frameworks (Reverse Engineering).
+* `02-state-machine-constraints/`: Building deterministic workflows using **LangGraph** / **CrewAI**.
+* `03-llmops-tracing/`: Hands-on configurations for **LangSmith** and **Langfuse** integration.
+* `04-regression-testing/`: Setting up LLM-as-a-judge automated evaluation pipelines.
+
+
+
 
 ## 🏗️ Core Architecture Pattern
 
