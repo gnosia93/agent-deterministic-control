@@ -1,5 +1,36 @@
-## LLM 에이전트의 결정론적 제어와 시스템 아키텍처(Deterministic Control and System Architecture of LLM Agents
-) ##
+## LLM 에이전트의 결정론적 제어와 시스템 아키텍처(Deterministic Control and System Architecture of LLM Agents) ##
+
+
+# Agent Deterministic Control and System Architecture
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
+
+This repository is dedicated to exploring how to build **production-ready, deterministic LLM Agents**. Moving beyond simple single-turn chatbots, we dive deep into the system architectures, tracing, and state-machine constraints required to tame the inherent non-determinism of Large Language Models.
+
+## 🎯 Key Challenges We Solve
+* **The Chaos of Non-Determinism:** Preventing agents from wandering off or picking random, suboptimal tools.
+* **Infinite Loop Mitigation:** Implementing strict fail-safes and maximum loop thresholds.
+* **Granular Tracing & Debugging:** Moving away from line-by-line debugging to event-driven tracing (using LangSmith/Langfuse).
+
+---
+
+## 🏗️ Core Architecture Pattern
+
+Our approach transitions the agent from complete autonomy to a structured **State Machine (Graph)** topology.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```
  랭체인 공식 문서 예제를 복사해서 붙여넣거나 타임라인에 돌아다니는 간단한 챗봇 코딩만 반복해서는 결코 이 구조를 꿰뚫어 볼 수 없습니다.
