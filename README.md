@@ -24,8 +24,7 @@ This repository is dedicated to exploring how to build **production-ready, deter
 ## 📚 Recommended Readings & References
 
 * 🥇 《AI Engineering》 (또는 《Designing Machine Learning Systems》) — Chip Huyen 저
-  * 왜 봐야 하는가: 실리콘밸리에서 가장 영향력 있는 ML 엔지니어인 칩 후옌의 신작과 전작입니다. LLM 기반 애플리케이션의 고질적인 문제인 Inference, Evaluation, Monitoring, 그리고 예측 불가능성을 프로덕션 레벨에서 어떻게 제어할 것인가를 시스템 디자인 패턴 관점에서 집요하게 다룹니다.
-  * 핵심 키워드: 비결정성 제어, 스트리밍 인퍼런스, 실시간 평가 아키텍처.
+  * LLM 기반 애플리케이션의 고질적인 문제인 Inference, Evaluation, Monitoring, 그리고 예측 불가능성을 프로덕션 레벨에서 어떻게 제어할 것인가를 시스템 디자인 패턴 관점에서 집요하게 다룹니다 - 비결정성 제어, 스트리밍 인퍼런스, 실시간 평가 아키텍처.
 * 🥈 《Build a Large Language Model (From Scratch)》 — Sebastian Raschka 저
   * 왜 봐야 하는가: 에이전트가 왜 그런 판단을 하는지 이해하려면 결국 트랜스포머(Transformer)와 어텐션(Attention) 메커니즘의 밑바닥을 알아야 합니다. 파이토치(PyTorch) 코드로 LLM의 뇌를 직접 구현해보면서 토큰 확률 배분이 어떻게 일어나는지 이해하게 되며, 이를 알고 나면 "아, 프롬프트의 이 단어 때문에 툴 콜링 확률 궤적이 이렇게 꺾였구나"가 직관적으로 보이기 시작합니다.
   *	핵심 키워드: 토큰 임베딩, 어텐션 가중치, 인퍼런스 인터널.
