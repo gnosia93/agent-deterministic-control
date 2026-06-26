@@ -30,8 +30,6 @@ This repository is dedicated to exploring how to build **production-ready, deter
 * 🥉 《LLMs in Production》 — Christopher Brousseau & Matthew Sharp (Manning Publications)
   *	실험실(Lab)에서 잘 돌던 에이전트가 쿠버네티스(EKS)나 프로덕션 환경으로 나갔을 때 마주하는 현실적인 문제(비용 최적화, 로드 테스트, 리트라이 밸런싱, MLOps 파이프라인)를 다룹니다. 에이전트가 오작동할 때의 세이프넷(Safety net) 구축법을 아주 체계적으로 배울 수 있습니다.
 
-#### 🌐 반드시 정독해야 할 최고 권위의 기술 블로그 & 논문 ####
-
 * "A practical guide to building agents" (OpenAI Business Guide)
   *	OpenAI가 공식 발행한 에이전트 구축 가이드입니다. 에이전트의 워크플로우를 무조건 자율로 두지 말고, 뼈대(Scaffolding)를 세워 제어하는 '프롬프트 인젝션 방어 기법'과 '결정적 흐름(Deterministic flows)' 설계의 정석을 다룹니다.
 * "Building Effective Agents" (Anthropic 리서치 블로그)
