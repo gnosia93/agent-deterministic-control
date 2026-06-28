@@ -33,7 +33,7 @@ This repository is dedicated to exploring how to build **production-ready, deter
 * "A practical guide to building agents" (OpenAI Business Guide)
   *	OpenAI가 공식 발행한 에이전트 구축 가이드입니다. 에이전트의 워크플로우를 무조건 자율로 두지 말고, 뼈대(Scaffolding)를 세워 제어하는 '프롬프트 인젝션 방어 기법'과 '결정적 흐름(Deterministic flows)' 설계의 정석을 다룹니다.
 * [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents)
-* 《ReAct: Synergistic Reasoning and Acting in Language Models》 (Yao et al.)
+* [《ReAct: Synergistic Reasoning and Acting in Language Models》](https://arxiv.org/abs/2210.03629)
 * 《Toolformer: Language Models Can Teach Themselves to Use Tools》 (Schick et al.)
   * LLM이 어떻게 문맥을 '생각(Reasoning)'하고 '행동(Action)'으로 연결하는지 언어학적/컴퓨터공학적 원리를 처음 세상에 증명한 논문들입니다. 수학식이 많지 않고 개념 위주라 개발자가 읽기에 아주 좋습니다.
 
